@@ -1,0 +1,44 @@
+[17-Dec-2021 17:38:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 251
+[17-Dec-2021 17:41:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 251
+[17-Dec-2021 17:42:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 251
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 539
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 546
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 588
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 591
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 594
+[17-Dec-2021 17:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 597
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 539
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 546
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 588
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 591
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 594
+[17-Dec-2021 17:59:29 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 597
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 539
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 546
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 588
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 591
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 594
+[17-Dec-2021 18:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 597
+[17-Dec-2021 18:15:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 251
+[17-Dec-2021 18:16:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 251
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 539
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 546
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 588
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 591
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 594
+[17-Dec-2021 18:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: row_user in /home/uajtug5f/public_html/demo/absenlokasi/action/sw-proses.php on line 597
